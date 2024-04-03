@@ -1,7 +1,6 @@
 ![Masterhead](https://giffiles.alphacoders.com/174/1744.gif)
 <h1 align="center">Hi 👋, I'm Chandra-Sekhar-Jena</h1>
 <h3 align="center">A passionate cybersecurity Researcher from India</h3>
-<image aglin="left"alt="hacking" width="400" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif">
 
 
 
